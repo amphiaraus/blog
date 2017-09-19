@@ -63,7 +63,7 @@ paginate: 8
 lsi: false
 quiet: false
 excerpt_separator: "\n\n"
-permalink: /blog/:year/:month/:day/:title/
+permalink: /blog/blog/:year/:month/:day/:title/
 gems:
     - jekyll-github-metadata
     - rouge
