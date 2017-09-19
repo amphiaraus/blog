@@ -1,6 +1,6 @@
 # Amphiaraus personal blog
 
-my personal blog <a href="http://amphiaraus.org/blog/">http://amphiaraus.org/blog/</a>
+My personal blog <a href="http://amphiaraus.org/blog/">http://amphiaraus.org/blog/</a>
 
 ## 致谢
 
