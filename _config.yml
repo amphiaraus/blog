@@ -28,29 +28,29 @@ email: amphiarause@gmail.com
 # ---------------- #
 navs:
   -
-    href: /
+    href: /blog/
     label: 首页
 
   -
-    href: /categories/
+    href: /blog/categories/
     label: 分类
 
   -
-    href: /wiki/
+    href: /blog/wiki/
     label: 维基
 
   -
-    href: /links/
+    href: /blog/links/
     label: 链接
 
   -
-    href: /about/
+    href: /blog/about/
     label: 关于
 
 # ---------------- #
 #       RSS        #
 # ---------------- #
-subscribe_rss: /feed.xml
+subscribe_rss: /blog/feed.xml
 
 # ---------------- #
 #      Jekyll      #
