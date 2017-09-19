@@ -1,7 +1,7 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
+baseurl: http://amphiaraus.org/blog/
 url: http://amphiaraus.org/blog/
 date_format: "ordinal"
 title: "Amphiaraus"
@@ -63,7 +63,7 @@ paginate: 8
 lsi: false
 quiet: false
 excerpt_separator: "\n\n"
-permalink: /blog/blog/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
 gems:
     - jekyll-github-metadata
     - rouge
