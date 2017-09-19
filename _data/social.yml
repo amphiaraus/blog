@@ -2,14 +2,6 @@
   name: amphiaraus
   url: https://github.com/amphiaraus
 
-- sitename: 掘金
-  name: amphiaraus
-  url: http://gold.xitu.io/user/570ddaeb2e958a005c63b2da
-
-- sitename: LinkedIn
-  name: amphiaraus
-  url: https://www.linkedin.com/in/amphiaraus
-
 - sitename: 博客
   name: amphiaraus
   url: http://amphiaraus.org/blog/
@@ -20,8 +12,4 @@
 
 - sitename: 知乎
   name: amphiaraus
-  url: http://www.zhihu.com/people/mzlogin
-
-- sitename: 豆瓣
-  name: amphiaraus
-  url: http://www.douban.com/people/amphiaraus
+  url: http://www.zhihu.com/people/amphiaraus
