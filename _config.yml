@@ -95,8 +95,8 @@ gitment:
     owner: amphiaraus
     repo: blog-comments
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: 7365828cebc82d169e23
+        client_secret: 51767324c5c5cb0dfe82c0d043fe3b22df8ca601
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
 
@@ -104,4 +104,4 @@ lazy_load_disqus : true
 #    Analytics     #
 # ---------------- #
 google:
-    analytics_id: UA-80669434-1
+    analytics_id: UA-106770497-1
