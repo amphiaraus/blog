@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl: /blog
-url: http://amphiaraus.org/blog
+url: https://www.amphiaraus.org/blog
 date_format: "ordinal"
 title: "Amphiaraus"
 subtitle: "Android Engieener"
@@ -18,7 +18,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 author: Amphiaraus
 organization: Amphiaraus
-organization_url: http://amphiaraus.org
+organization_url: https://www.amphiaraus.org
 github_username: amphiaraus
 location: Beijing, China
 email: amphiarause@gmail.com
