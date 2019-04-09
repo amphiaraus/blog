@@ -1,8 +1,8 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl: /blog
-url: https://www.mapleqin.org/blog
+baseurl: /
+url: https://blog.mapleqin.org
 date_format: "ordinal"
 title: "MapleQin"
 subtitle: "Android Engieener"
@@ -28,29 +28,29 @@ email: qinmaples@gmail.com
 # ---------------- #
 navs:
   -
-    href: /blog/
+    href: /
     label: 首页
 
   -
-    href: /blog/categories/
+    href: /categories/
     label: 分类
 
   -
-    href: /blog/wiki/
+    href: /wiki/
     label: 维基
 
   -
-    href: /blog/links/
+    href: /links/
     label: 链接
 
   -
-    href: /blog/about/
+    href: /about/
     label: 关于
 
 # ---------------- #
 #       RSS        #
 # ---------------- #
-subscribe_rss: /blog/feed.xml
+subscribe_rss: /feed.xml
 
 # ---------------- #
 #      Jekyll      #
