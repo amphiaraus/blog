@@ -1,6 +1,6 @@
-# Amphiaraus personal blog
+# MapleQin personal blog
 
-My personal blog <a href="http://amphiaraus.org/blog/">http://amphiaraus.org/blog/</a>
+My personal blog <a href="https://www.mapleqin.org/blog/">https://www.mapleqin.org/blog/</a>
 
 ## 致谢
 
