@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl: /blog
-url: https://www.amphiaraus.org/blog
+url: https://www.mapleqin.org/blog
 date_format: "ordinal"
-title: "Amphiaraus"
+title: "MapleQin"
 subtitle: "Android Engieener"
 description: "A Android developer, expert in Android who lives in Beijing."
-keywords: Amphiaraus, Android
+keywords: MapleQin, Android
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -16,12 +16,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Amphiaraus
-organization: Amphiaraus
-organization_url: https://www.amphiaraus.org
-github_username: amphiaraus
+author: MapleQin
+organization: Maple
+organization_url: https://www.mapleqin.org
+github_username: mapleqin
 location: Beijing, China
-email: amphiarause@gmail.com
+email: qinmaples@gmail.com
 
 # ---------------- #
 #    Navigation    #
