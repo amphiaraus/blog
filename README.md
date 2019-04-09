@@ -1,6 +1,6 @@
 # MapleQin personal blog
 
-My personal blog <a href="https://www.mapleqin.org/blog/">https://www.mapleqin.org/blog/</a>
+My personal blog <a href="https://blog.mapleqin.org">https://blog.mapleqin.org</a>
 
 ## 致谢
 
